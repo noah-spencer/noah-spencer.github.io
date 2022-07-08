@@ -9,7 +9,7 @@ I'm an Evolutionary Biology PhD student at Arizona State University. During my u
 
 I use transcriptomics and various imaging techniques to characterize the cell biological consequences of these extreme changes in *Hodgkinia*'s genome size and organization. In general, I am interested in how endosymbiosis ⁠— which has produced some of the simplest cellular organisms ⁠— can also produce astonishing biological complexity through both adaptive and non-adaptive mechanisms.
 
-[Follow me on Twitter @faux_sneezes](https://twitter.com/faux_sneezes)  
+Follow me on [Twitter @faux_sneezes](https://twitter.com/faux_sneezes)  
 Email: <njspenc1@asu.edu>
 
 
