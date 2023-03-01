@@ -9,8 +9,8 @@ I'm an Evolutionary Biology PhD student at Arizona State University working in [
 
 ![Noah in Sedona, Arizona](images/noah_in_sedona.JPG)
 
-Follow me on Twitter [@faux_sneezes](https://twitter.com/faux_sneezes)
-...and/or on Mastodon [@noahspencer@fosstodon.org](https://fosstodon.org/@noahspencer)
+Follow me on Twitter [@faux_sneezes](https://twitter.com/faux_sneezes)  
+...and/or on Mastodon [@noahspencer@fosstodon.org](https://fosstodon.org/@noahspencer)  
 Email: <njspenc1@asu.edu>
 
 
