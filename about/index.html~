@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <meta name="description" content="Brief bio of Noah Spencer.">
+    <meta name="author" content="Noah Spencer">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+
+<!-- Favicon stuff -->
+<link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+<link rel="shortcut icon" href="/favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+<link rel="manifest" href="/favicon/site.webmanifest" />
+
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+  </head>
+
+
+  <body>
+
+    <header>
+      <nav>
+	<p><a href="/">Home</a> | <b><a href="/about/">About</a></b> | <a href="/research/">Research</a> | <a href="/publications/">Published Work</a> | <a href="/CV_Spencer.pdf">CV (June 2025)</a> 
+      </nav>
+    </header>
+
+    <main>
+      <img src="/images/me.jpg" alt="'A photo of Noah.'" width="700px" height="700px"></img>
+
+      <p>Originally from Morgantown, West Virginia, I received my BS in Biology from West Virginia University in 2021. It was here that, through my work on tsetse flies in Dr. Rita Rio's lab, I was introduced to the study of endosymbiosis — cells living stably inside of other cells. Shortly thereafter, I left for Arizona to work in Dr. John McCutcheon's lab, where I have been studying the <em>Hodgkinia cicadicola</em> endosymbionts of cicadas ever since.</p>
+      <p>As much as I love trudging around with an insect net and conjuring up shell scripts (in GNU Emacs, of course), I was drawn to science less as a naturalist or as a computer geek and more as a sort of artsy storyteller seeking real-life tales of wonder and mystery. I have developed a deep appreciation for the craft of scientific writing and of visual storytelling through microscopy and data visualization.</p>
+
+   </main>
+
+  </body>
