@@ -24,14 +24,14 @@
 
     <header>
       <nav>
-	<p><b><a href="/">Home</a></b> | <a href="/about/">About</a> | <a href="/research/">Research</a> | <a href="/publications/">Published Work</a> | <a href="/contact/">Contact</a> | <a href="/CV_Spencer.pdf">CV (June 2025)</a> 
+	<p><a href="/">Home</a> | <a href="/about/">About</a> | <a href="/research/">Research</a> | <a href="/publications/">Published Work</a> | <b><a href="/contact/">Contact</a></b> | <a href="/CV_Spencer.pdf">CV (June 2025)</a> 
       </nav>
     </header>
 
     <main>
-      <img src="/images/bacteriome.jpg" alt="'Fluorescence micrograph of a sectioned cicada bacteriome - an organ containing the insect's bacterial symbionts. A circular mass of yellow bacteria is encircled by a ring of cells filled with red bacteria. Insect cell nuclei stained blue appear throughout.'" width="700px" height="700px"></img>
 
-      <p>Noah Spencer, Evolutionary Biology PhD Candidate at Arizona State University.</p>
+      <p>E-mail: njspenc1 [at] asu [dot] edu</p>
+      <p>Alt e-mail: spencernj [at] gmail [dot] com</p>
 
    </main>
 
