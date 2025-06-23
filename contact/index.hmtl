@@ -3,8 +3,8 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noah Spencer Biology - Home</title>
-    <meta name="description" content="Noah Spencer (the biologist)'s homepage.">
+    <title>Noah Spencer Biology - Contact</title>
+    <meta name="description" content="Noah's contact details.">
     <meta name="author" content="Noah Spencer">
     <link href="/style.css" rel="stylesheet" type="text/css" media="all">
 
@@ -24,7 +24,7 @@
 
     <header>
       <nav>
-	<p><a href="/">Home</a> | <a href="/about/">About</a> | <a href="/research/">Research</a> | <a href="/publications/">Published Work</a> | <b><a href="/contact/">Contact</a></b> | <a href="/CV_Spencer.pdf">CV (June 2025)</a> 
+	<p><a href="/">Home</a> | <a href="/about/">About</a> | <a href="/research/">Research</a> | <a href="/publications/">Published Work</a> | <b><a href="/contact/index.html">Contact</a></b> | <a href="/CV_Spencer.pdf">CV (June 2025)</a> 
       </nav>
     </header>
 
