@@ -30,6 +30,7 @@
 
     <main>
       <h1>Research</h1>
+      <p></p>
       <figure>
 	<img src="/images/magicicada-microscopy.jpg" alt="a photo of a cicada nymph and a fluorescence microscopy image of the cicada's endosymbiont-containing organ, the bacteriome" width="700px"></img>
 	<figcaption>Photo: Noah Spencer.</figcaption>

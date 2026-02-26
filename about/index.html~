@@ -31,8 +31,8 @@
     <main>
       <img src="/images/me.jpg" alt="'A photo of Noah.'" width="700px" height="700px"></img>
 
-      <p>Originally from Morgantown, West Virginia, I received my BS in Biology from West Virginia University in 2021. It was here that, through my work on tsetse flies in Dr. Rita Rio's lab, I was introduced to the study of endosymbiosis — cells living stably inside of other cells. Shortly thereafter, I left for Arizona to work in Dr. John McCutcheon's lab, where I have been studying the <em>Hodgkinia cicadicola</em> endosymbionts of cicadas ever since.</p>
-      <p>As much as I love trudging around with an insect net and conjuring up shell scripts (in GNU Emacs, of course), I was drawn to science less as a naturalist or as a computer geek and more as a sort of artsy storyteller seeking real-life tales of wonder and mystery. I have developed a deep appreciation for the craft of scientific writing and of visual storytelling through microscopy and data visualization.</p>
+
+      <blockquote><p>A mature physicist, acquainting himself for the first time with the problems of biology, is puzzled by the circumstance that there are no 'absolute phenomena' in biology. Everything is time-bound and space-bound. The animal or plant or micro-organism he is working with is but a link in an evolutionary chain of changing forms, none of which has any permanent validity.</p></blockquote><p>—Max Delbrück, <cite>A Physicist Looks at Biology</cite></p>
 
    </main>
 
